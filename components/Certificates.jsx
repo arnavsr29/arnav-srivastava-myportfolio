@@ -20,7 +20,7 @@ const Certificates = () => {
             className="bg-tertiary p-5 rounded-2xl w-[300px] shadow-lg hover:shadow-2xl transition-shadow"
           >
             <img
-              src={certificate.image}
+              src={certificate.image} alt={certificate.name}
               className="w-full h-[160px] object-cover rounded-xl"
             />
 

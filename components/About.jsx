@@ -29,7 +29,7 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-          Hello! I'm <strong>Arnav Srivastava</strong>, a Data Analyst and problem solver 
+          Hello! I am <strong>Arnav Srivastava</strong>, a Data Analyst and problem solver 
           with experience in Master Data Management (MDM) and enterprise data operations. 
           I specialize in building clean, reliable, and scalable data foundations that 
           support cross-functional teams in delivering analytics solutions and enabling 
